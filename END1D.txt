@@ -6,13 +6,13 @@
 			"type": "Creature — Human Peasant ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW01 — Charismatic Peasant_front.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW01 — Charismatic Peasant_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW01 — Charismatic Peasant_back.png"
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW01 — Charismatic Peasant_back.png"
 				}
 			}
 		},
@@ -23,7 +23,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW02 — Storyteller's Rally.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW02 — Storyteller's Rally.png"
 			}
 		},
 		{
@@ -33,7 +33,7 @@
 			"type": "Sorcery",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW03 — Memory of Loyalty.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW03 — Memory of Loyalty.png"
 			}
 		},
 		{
@@ -43,7 +43,7 @@
 			"type": "Sorcery",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU03 — Memory of Knowledge.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU03 — Memory of Knowledge.png"
 			}
 		},
 		{
@@ -53,7 +53,7 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB03 — Memory of Persistence.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB03 — Memory of Persistence.png"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR03 — Memory of Loyalty.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR03 — Memory of Loyalty.png"
 			}
 		},
 		{
@@ -73,244 +73,7 @@
 			"type": "Sorcery",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG03 — Memory of Strength.png"
-			}
-		},
-		{
-			"name": "UM01 — Essezza, Forsakenment Puzzler",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "Legendary Creature — Human Advisor ",
-			"collector_number": "111",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM01 — Essezza, Forsakenment Puzzler.png"
-			}
-		},
-		{
-			"name": "UM02 — Altimer, Temporal Necromancer",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "112",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM02 — Altimer, Temporal Necromancer.png"
-			}
-		},
-		{
-			"name": "UM03 — Japenta Bloodsucker Wrat",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Legendary Creature — Human Vampire Berskeker ",
-			"collector_number": "113",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM03 — Japenta Bloodsucker Wrat.png"
-			}
-		},
-		{
-			"name": "UM04 — Enteir, Wilden Actor",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{G}",
-			"type": "Legendary Creature — Human Performer ",
-			"collector_number": "114",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM04 — Enteir, Wilden Actor.png"
-			}
-		},
-		{
-			"name": "UM13 — The Bloodsucker's Secret",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "123",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM13 — The Bloodsucker's Secret.png"
-			}
-		},
-		{
-			"name": "UM06 — Auricius, Death Puppeteer",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Human Warlock ",
-			"collector_number": "116",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM06 — Auricius, Death Puppeteer.png"
-			}
-		},
-		{
-			"name": "UM14 — Enteir's Infinite Finale",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "124",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM14 — Enteir's Infinite Finale.png"
-			}
-		},
-		{
-			"name": "Acronia, Fated to Villainy",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "Legendary Creature — Human Peasant ",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/Acronia, Fated to Villainy.png"
-			}
-		},
-		{
-			"name": "UM05 — Wayla, Mournful Melody",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{W}",
-			"type": "Legendary Enchantment Creature — Human Bard ",
-			"collector_number": "115",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM05 — Wayla, Mournful Melody.png"
-			}
-		},
-		{
-			"name": "UM07 — Lavela, Desperate Prophet",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature — Human Mystic ",
-			"collector_number": "117",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM07 — Lavela, Desperate Prophet.png"
-			}
-		},
-		{
-			"name": "UM08 — Obelek, Undeath Puppeteer",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{G}",
-			"type": "Legendary Creature — Human Warlock ",
-			"collector_number": "118",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM08 — Obelek, Undeath Puppeteer.png"
-			}
-		},
-		{
-			"name": "UM09 — Hali, Apprentice Blacksmith",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{W}",
-			"type": "Legendary Creature — Human Peasant ",
-			"collector_number": "119",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM09 — Hali, Apprentice Blacksmith.png"
-			}
-		},
-		{
-			"name": "Taz Retir, Slayer of Gods",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Human Warlock ",
-			"collector_number": "68",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/Taz Retir, Slayer of Gods.png"
-			}
-		},
-		{
-			"name": "UM10 — Clxlclc, Amateur Historian",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{U}",
-			"type": "Legendary Creature — Homunculus ",
-			"collector_number": "120",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM10 — Clxlclc, Amateur Historian.png"
-			}
-		},
-		{
-			"name": "UM20 — Clxlclc's Findings",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{G}{U}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "130",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM20 — Clxlclc's Findings.png"
-			}
-		},
-		{
-			"name": "UM11 — The Long Puzzle",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "121",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM11 — The Long Puzzle.png"
-			}
-		},
-		{
-			"name": "Taz Retir Slays a God",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}{B}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "69",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/Taz Retir Slays a God_front.png"
-			},
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/Taz Retir Slays a God_back.png"
-				}
-			}
-		},
-		{
-			"name": "UM12 — Altimer's Once and Future",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{B}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "122",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM12 — Altimer's Once and Future.png"
-			}
-		},
-		{
-			"name": "UM15 — Wayla's Sorrow",
-			"rarity": "uncommon",
-			"mana_cost": "{G}{W}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "125",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM15 — Wayla's Sorrow.png"
-			}
-		},
-		{
-			"name": "UM16 — Legend of the Death Puppeteer",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "126",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM16 — Legend of the Death Puppeteer.png"
-			}
-		},
-		{
-			"name": "UM17 — Indecipherable Fates",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM17 — Indecipherable Fates.png"
-			}
-		},
-		{
-			"name": "UM18 — Legend of the Undeath Puppeteer",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{G}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "128",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM18 — Legend of the Undeath Puppeteer.png"
-			}
-		},
-		{
-			"name": "UM19 — Hali's Apprenticeship",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{W}",
-			"type": "Enchantment — Saga ",
-			"collector_number": "129",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UM19 — Hali's Apprenticeship.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG03 — Memory of Strength.png"
 			}
 		},
 		{
@@ -320,7 +83,7 @@
 			"type": "Creature — Angel ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW04 — Renegade Valkyrie.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW04 — Renegade Valkyrie.png"
 			}
 		},
 		{
@@ -330,7 +93,7 @@
 			"type": "Creature — Human Warrior Cleric  ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW05 — Paladin of a Dead God.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW05 — Paladin of a Dead God.png"
 			}
 		},
 		{
@@ -340,7 +103,7 @@
 			"type": "Creature — Human Warrior Cleric  ",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU05 — Paladin of a Forgotten God.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU05 — Paladin of a Forgotten God.png"
 			}
 		},
 		{
@@ -350,7 +113,7 @@
 			"type": "Creature — Human Warrior Cleric ",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB05 — Paladin of a Living God.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB05 — Paladin of a Living God.png"
 			}
 		},
 		{
@@ -360,7 +123,7 @@
 			"type": "Creature — Human Warrior Cleric  ",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR05 — Paladin of a Mad God.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR05 — Paladin of a Mad God.png"
 			}
 		},
 		{
@@ -370,7 +133,7 @@
 			"type": "Creature — Human Warrior Cleric  ",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG05 — Paladin of an Undead God.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG05 — Paladin of an Undead God.png"
 			}
 		},
 		{
@@ -380,7 +143,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW06 — Warrior's Chant.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW06 — Warrior's Chant.png"
 			}
 		},
 		{
@@ -390,7 +153,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW07 — Peacebringer Blade.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW07 — Peacebringer Blade.png"
 			}
 		},
 		{
@@ -400,7 +163,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW08 — Memory Healer.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW08 — Memory Healer.png"
 			}
 		},
 		{
@@ -410,7 +173,7 @@
 			"type": "Creature — Human Shaman ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW09 — Aurora Channeler.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW09 — Aurora Channeler.png"
 			}
 		},
 		{
@@ -420,7 +183,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR12 — Artful Shock.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR12 — Artful Shock.png"
 			}
 		},
 		{
@@ -430,7 +193,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW10 — Doves of War.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW10 — Doves of War.png"
 			}
 		},
 		{
@@ -440,13 +203,13 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU01 — Charismatic Wizard_front.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU01 — Charismatic Wizard_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU01 — Charismatic Wizard_back.png"
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU01 — Charismatic Wizard_back.png"
 				}
 			}
 		},
@@ -457,13 +220,13 @@
 			"type": "Creature — Human Noble ",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB01 — Charismatic Noble_front.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB01 — Charismatic Noble_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB01 — Charismatic Noble_back.png"
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB01 — Charismatic Noble_back.png"
 				}
 			}
 		},
@@ -474,13 +237,13 @@
 			"type": "Creature — Human Bard ",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR01 — Charismatic Bard_front.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR01 — Charismatic Bard_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR01 — Charismatic Bard_back.png"
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR01 — Charismatic Bard_back.png"
 				}
 			}
 		},
@@ -491,13 +254,13 @@
 			"type": "Creature — Human Druid ",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG01 — Charismatic Druid_front.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG01 — Charismatic Druid_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG01 — Charismatic Druid_back.png"
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG01 — Charismatic Druid_back.png"
 				}
 			}
 		},
@@ -508,7 +271,7 @@
 			"type": "Creature — Angel ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW11 — Rebellious Rescuer.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW11 — Rebellious Rescuer.png"
 			}
 		},
 		{
@@ -518,7 +281,7 @@
 			"type": "Enchantment Creature — Spirit ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW12 — Muse of Loyalty.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW12 — Muse of Loyalty.png"
 			}
 		},
 		{
@@ -528,7 +291,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW14 — Oathbindings.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW14 — Oathbindings.png"
 			}
 		},
 		{
@@ -538,7 +301,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW13 — Living Saber.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW13 — Living Saber.png"
 			}
 		},
 		{
@@ -548,7 +311,7 @@
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW15 — Memory Crush.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW15 — Memory Crush.png"
 			}
 		},
 		{
@@ -558,7 +321,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW16 — Defensive Stance.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW16 — Defensive Stance.png"
 			}
 		},
 		{
@@ -568,7 +331,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW17 — Peasant's Pitchfork.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW17 — Peasant's Pitchfork.png"
 			}
 		},
 		{
@@ -578,7 +341,7 @@
 			"type": "Sorcery",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW18 — Historic Moment.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW18 — Historic Moment.png"
 			}
 		},
 		{
@@ -588,7 +351,7 @@
 			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CW19 — Mundane Memories.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CW19 — Mundane Memories.png"
 			}
 		},
 		{
@@ -598,7 +361,7 @@
 			"type": "Enchantment Creature — Crab ",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU02 — Distressed Crab.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU02 — Distressed Crab.png"
 			}
 		},
 		{
@@ -608,7 +371,7 @@
 			"type": "Creature — Human Cleric ",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB02 — Doomed Priest.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB02 — Doomed Priest.png"
 			}
 		},
 		{
@@ -618,17 +381,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU04 — Deathmonger Dove.png"
-			}
-		},
-		{
-			"name": "Deathharmonicon",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}",
-			"type": "Enchantment",
-			"collector_number": "67",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/Deathharmonicon.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU04 — Deathmonger Dove.png"
 			}
 		},
 		{
@@ -638,7 +391,7 @@
 			"type": "Creature — Drake ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU06 — Wistful Drake.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU06 — Wistful Drake.png"
 			}
 		},
 		{
@@ -648,7 +401,7 @@
 			"type": "Enchantment Creature — Turtle ",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU07 — Loreshell Turtle.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU07 — Loreshell Turtle.png"
 			}
 		},
 		{
@@ -658,7 +411,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU08 — Miserable Wingmaker.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU08 — Miserable Wingmaker.png"
 			}
 		},
 		{
@@ -668,7 +421,7 @@
 			"type": "Enchantment Creature — Spirit ",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU09 — Muse of Knowledge.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU09 — Muse of Knowledge.png"
 			}
 		},
 		{
@@ -678,7 +431,7 @@
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU10 — Repleneshing Repetition.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU10 — Repleneshing Repetition.png"
 			}
 		},
 		{
@@ -688,7 +441,7 @@
 			"type": "Instant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU11 — Visionary Veto.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU11 — Visionary Veto.png"
 			}
 		},
 		{
@@ -698,7 +451,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU12 — Tale of Negation.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU12 — Tale of Negation.png"
 			}
 		},
 		{
@@ -708,7 +461,7 @@
 			"type": "Instant",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU13 — Desolate Denial.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU13 — Desolate Denial.png"
 			}
 		},
 		{
@@ -718,7 +471,7 @@
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU14 — Desperate Studying.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU14 — Desperate Studying.png"
 			}
 		},
 		{
@@ -728,7 +481,7 @@
 			"type": "Sorcery",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU15 — Forsaken Looting.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU15 — Forsaken Looting.png"
 			}
 		},
 		{
@@ -738,7 +491,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB15 — Bloody Bargain.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB15 — Bloody Bargain.png"
 			}
 		},
 		{
@@ -748,7 +501,7 @@
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU16 — Subtle Pull.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU16 — Subtle Pull.png"
 			}
 		},
 		{
@@ -758,7 +511,7 @@
 			"type": "Sorcery",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU17 — Forgetful Fade.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU17 — Forgetful Fade.png"
 			}
 		},
 		{
@@ -768,7 +521,7 @@
 			"type": "Instant",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU18 — Insightful Disruption.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU18 — Insightful Disruption.png"
 			}
 		},
 		{
@@ -778,7 +531,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CU19 — Strength of Knowledge.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CU19 — Strength of Knowledge.png"
 			}
 		},
 		{
@@ -788,7 +541,7 @@
 			"type": "Creature — Angel ",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB04 — Forsaken Angel.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB04 — Forsaken Angel.png"
 			}
 		},
 		{
@@ -798,7 +551,7 @@
 			"type": "Creature — Cat ",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB06 — Fateclaw Feline.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB06 — Fateclaw Feline.png"
 			}
 		},
 		{
@@ -808,7 +561,7 @@
 			"type": "Creature — Cat  ",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB07 — Savage Feline.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB07 — Savage Feline.png"
 			}
 		},
 		{
@@ -818,7 +571,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB08 — Assassin's Chant.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB08 — Assassin's Chant.png"
 			}
 		},
 		{
@@ -828,7 +581,7 @@
 			"type": "Creature",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB09 — Desperate Dissenter.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB09 — Desperate Dissenter.png"
 			}
 		},
 		{
@@ -838,7 +591,7 @@
 			"type": "Enchantment Creature — Spirit ",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB10 — Muse of Persistence.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB10 — Muse of Persistence.png"
 			}
 		},
 		{
@@ -848,7 +601,7 @@
 			"type": "Sorcery",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB12 — Vengeant Remebrance.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB12 — Vengeant Remebrance.png"
 			}
 		},
 		{
@@ -858,17 +611,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB14 — Deathblood Wound.png"
-			}
-		},
-		{
-			"name": "UB01 — Forsaken Bones#",
-			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/UB01 — Forsaken Bones#.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB14 — Deathblood Wound.png"
 			}
 		},
 		{
@@ -878,7 +621,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB11 — Desperate Murder.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB11 — Desperate Murder.png"
 			}
 		},
 		{
@@ -888,17 +631,7 @@
 			"type": "Instant",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB13 — Inconsequential Death.png"
-			}
-		},
-		{
-			"name": "The Aeon Brain",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}",
-			"type": "Legendary Enchantment Artifact",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/The Aeon Brain.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB13 — Inconsequential Death.png"
 			}
 		},
 		{
@@ -908,7 +641,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB16 — Fateful Resurrection.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB16 — Fateful Resurrection.png"
 			}
 		},
 		{
@@ -918,7 +651,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB18 — Deadly Swordsmanship.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB18 — Deadly Swordsmanship.png"
 			}
 		},
 		{
@@ -928,7 +661,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB17 — Mental Chaos.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB17 — Mental Chaos.png"
 			}
 		},
 		{
@@ -938,7 +671,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CB19 — Strength of Persistence.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CB19 — Strength of Persistence.png"
 			}
 		},
 		{
@@ -948,7 +681,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR06 — Raging Gambit.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR06 — Raging Gambit.png"
 			}
 		},
 		{
@@ -958,7 +691,7 @@
 			"type": "Creature",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR02 — Depressed Maskmaker.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR02 — Depressed Maskmaker.png"
 			}
 		},
 		{
@@ -968,7 +701,7 @@
 			"type": "Creature — Human Rogue ",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR04 — Alleyway Savage.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR04 — Alleyway Savage.png"
 			}
 		},
 		{
@@ -978,7 +711,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR07 — Deathblood Axe.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR07 — Deathblood Axe.png"
 			}
 		},
 		{
@@ -988,7 +721,7 @@
 			"type": "Sorcery",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR08 — Forsake the Wilds.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR08 — Forsake the Wilds.png"
 			}
 		},
 		{
@@ -998,7 +731,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR09 — Swift Hunting.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR09 — Swift Hunting.png"
 			}
 		},
 		{
@@ -1008,7 +741,7 @@
 			"type": "Enchantment Creature — Spirit ",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR10 — Muse of Courage.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR10 — Muse of Courage.png"
 			}
 		},
 		{
@@ -1018,7 +751,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR11 — Lightning Gauntlet.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR11 — Lightning Gauntlet.png"
 			}
 		},
 		{
@@ -1028,7 +761,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR13 — Hopeless Treason.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR13 — Hopeless Treason.png"
 			}
 		},
 		{
@@ -1038,7 +771,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR14 — Flaming Charge.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR14 — Flaming Charge.png"
 			}
 		},
 		{
@@ -1048,7 +781,7 @@
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR15 — Desperate Gambit.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR15 — Desperate Gambit.png"
 			}
 		},
 		{
@@ -1058,7 +791,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR16 — Axe of Shared Courage.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR16 — Axe of Shared Courage.png"
 			}
 		},
 		{
@@ -1068,17 +801,7 @@
 			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR17 — Burst of Mastery.png"
-			}
-		},
-		{
-			"name": "#The Master's Blade",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "71",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/#The Master's Blade.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR17 — Burst of Mastery.png"
 			}
 		},
 		{
@@ -1088,34 +811,7 @@
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR18 — Vengeant Rage.png"
-			}
-		},
-		{
-			"name": "The Aeon Brawn",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Legendary Enchantment Artifact",
-			"collector_number": "72",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/The Aeon Brawn.png"
-			}
-		},
-		{
-			"name": "The Aeon Bones",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}",
-			"type": "Legendary Enchantment Artifact",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/The Aeon Bones_front.png"
-			},
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/The Aeon Bones_back.png"
-				}
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR18 — Vengeant Rage.png"
 			}
 		},
 		{
@@ -1125,7 +821,7 @@
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CR19 — Burn Down the Walls.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CR19 — Burn Down the Walls.png"
 			}
 		},
 		{
@@ -1135,7 +831,7 @@
 			"type": "Creature — Human Rogue Druid ",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG02 — Deathbloom Assassin.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG02 — Deathbloom Assassin.png"
 			}
 		},
 		{
@@ -1145,7 +841,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG04 — Archer's Gambit.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG04 — Archer's Gambit.png"
 			}
 		},
 		{
@@ -1155,7 +851,7 @@
 			"type": "Enchantment Creature — Treefolk ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG06 — Enchanted Boughs.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG06 — Enchanted Boughs.png"
 			}
 		},
 		{
@@ -1165,7 +861,7 @@
 			"type": "Creature — Wolf ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG07 — Savage Canine.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG07 — Savage Canine.png"
 			}
 		},
 		{
@@ -1175,7 +871,7 @@
 			"type": "Enchantment Artifact Creature — Golem ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG08 — Lore-Rune Golem.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG08 — Lore-Rune Golem.png"
 			}
 		},
 		{
@@ -1185,7 +881,7 @@
 			"type": "Enchantment",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG09 — Miserable Menagerie.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG09 — Miserable Menagerie.png"
 			}
 		},
 		{
@@ -1195,7 +891,7 @@
 			"type": "Enchantment Creature — Spirit ",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG10 — Herald of Forsakenment.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG10 — Herald of Forsakenment.png"
 			}
 		},
 		{
@@ -1205,7 +901,7 @@
 			"type": "Enchantment Creature — Spirit ",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG11 —Muse if Strength.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG11 —Muse if Strength.png"
 			}
 		},
 		{
@@ -1215,7 +911,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG13 — Rhythmic Growth.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG13 — Rhythmic Growth.png"
 			}
 		},
 		{
@@ -1225,7 +921,7 @@
 			"type": "Sorcery",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG12 — Prey Upon.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG12 — Prey Upon.png"
 			}
 		},
 		{
@@ -1235,7 +931,7 @@
 			"type": "Instant",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG14 — Baneful Bite.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG14 — Baneful Bite.png"
 			}
 		},
 		{
@@ -1245,7 +941,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG15 — Growth Song.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG15 — Growth Song.png"
 			}
 		},
 		{
@@ -1255,7 +951,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG18 — Fertile Ground.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG18 — Fertile Ground.png"
 			}
 		},
 		{
@@ -1265,7 +961,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG16 — Strength of Nature.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG16 — Strength of Nature.png"
 			}
 		},
 		{
@@ -1275,7 +971,7 @@
 			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG17 — Birdhunt.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG17 — Birdhunt.png"
 			}
 		},
 		{
@@ -1285,7 +981,7 @@
 			"type": "Instant",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CG19 — Disillusion.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CG19 — Disillusion.png"
 			}
 		},
 		{
@@ -1295,7 +991,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CC01 — Ambiguous Visionary.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CC01 — Ambiguous Visionary.png"
 			}
 		},
 		{
@@ -1305,7 +1001,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CC02 — Ambiguous Reckoner.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CC02 — Ambiguous Reckoner.png"
 			}
 		},
 		{
@@ -1315,7 +1011,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CC03 — Ambiguous Madman.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CC03 — Ambiguous Madman.png"
 			}
 		},
 		{
@@ -1325,7 +1021,7 @@
 			"type": "Enchantment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CC04 — Ambiguous Death.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CC04 — Ambiguous Death.png"
 			}
 		},
 		{
@@ -1335,7 +1031,7 @@
 			"type": "Enchantment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CC05 — Ambiguous Power.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CC05 — Ambiguous Power.png"
 			}
 		},
 		{
@@ -1345,7 +1041,7 @@
 			"type": "Enchantment",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D/CC06 — Ambiguous Exploration.png"
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END1D-files/CC06 — Ambiguous Exploration.png"
 			}
 		},
 		]
