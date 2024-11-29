@@ -1,0 +1,1494 @@
+[CustomCards]
+	[	{
+			"name": "CW01 — Charismatic Peasant",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW01 — Charismatic Peasant_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW01 — Charismatic Peasant_back.png"
+				}
+			}
+		},
+		{
+			"name": "CW02 — Storyteller's Rally",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW02 — Storyteller's Rally.png"
+			}
+		},
+		{
+			"name": "CW03 — Memory of Loyalty",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW03 — Memory of Loyalty.png"
+			}
+		},
+		{
+			"name": "CU03 — Memory of Knowledge",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU03 — Memory of Knowledge.png"
+			}
+		},
+		{
+			"name": "CB03 — Memory of Persistence",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB03 — Memory of Persistence.png"
+			}
+		},
+		{
+			"name": "CR03 — Memory of Loyalty",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR03 — Memory of Loyalty.png"
+			}
+		},
+		{
+			"name": "CG03 — Memory of Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG03 — Memory of Strength.png"
+			}
+		},
+		{
+			"name": "UM01 — Essezza, Forsakenment Puzzler",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM01 — Essezza, Forsakenment Puzzler.png"
+			}
+		},
+		{
+			"name": "UM02 — Altimer, Temporal Necromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM02 — Altimer, Temporal Necromancer.png"
+			}
+		},
+		{
+			"name": "UM03 — Japenta Bloodsucker Wrat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Vampire Berserker ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM03 — Japenta Bloodsucker Wrat.png"
+			}
+		},
+		{
+			"name": "UM04 — Enteir, Wilden Actor",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Performer ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM04 — Enteir, Wilden Actor.png"
+			}
+		},
+		{
+			"name": "UM13 — The Bloodsucker's Secret",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM13 — The Bloodsucker's Secret.png"
+			}
+		},
+		{
+			"name": "UM06 — Auricius, Death Puppeteer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM06 — Auricius, Death Puppeteer.png"
+			}
+		},
+		{
+			"name": "UM14 — Enteir's Infinite Finale",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM14 — Enteir's Infinite Finale.png"
+			}
+		},
+		{
+			"name": "Acronia, Fated to Villainy",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Peasant ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/Acronia, Fated to Villainy.png"
+			}
+		},
+		{
+			"name": "UM05 — Wayla, Mournful Melody",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Enchantment Creature — Human Bard ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM05 — Wayla, Mournful Melody.png"
+			}
+		},
+		{
+			"name": "UM07 — Lavela, Desperate Prophet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Mystic ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM07 — Lavela, Desperate Prophet.png"
+			}
+		},
+		{
+			"name": "UM08 — Obelek, Undeath Puppeteer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM08 — Obelek, Undeath Puppeteer.png"
+			}
+		},
+		{
+			"name": "UM09 — Hali, Apprentice Blacksmith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Peasant ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM09 — Hali, Apprentice Blacksmith.png"
+			}
+		},
+		{
+			"name": "Taz Retir, Slayer of Gods",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/Taz Retir, Slayer of Gods.png"
+			}
+		},
+		{
+			"name": "UM10 — Clxlclc, Amateur Historian",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Homunculus ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM10 — Clxlclc, Amateur Historian.png"
+			}
+		},
+		{
+			"name": "UM20 — Clxlclc's Findings",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM20 — Clxlclc's Findings.png"
+			}
+		},
+		{
+			"name": "UM11 — The Long Puzzle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM11 — The Long Puzzle.png"
+			}
+		},
+		{
+			"name": "Taz Retir Slays a God",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/Taz Retir Slays a God_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/Taz Retir Slays a God_back.png"
+				}
+			}
+		},
+		{
+			"name": "UM12 — Altimer's Once and Future",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM12 — Altimer's Once and Future.png"
+			}
+		},
+		{
+			"name": "UM15 — Wayla's Sorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM15 — Wayla's Sorrow.png"
+			}
+		},
+		{
+			"name": "UM16 — Legend of the Death Puppeteer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM16 — Legend of the Death Puppeteer.png"
+			}
+		},
+		{
+			"name": "UM17 — Indecipherable Fates",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM17 — Indecipherable Fates.png"
+			}
+		},
+		{
+			"name": "UM18 — Legend of the Undeath Puppeteer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM18 — Legend of the Undeath Puppeteer.png"
+			}
+		},
+		{
+			"name": "UM19 — Hali's Apprenticeship",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UM19 — Hali's Apprenticeship.png"
+			}
+		},
+		{
+			"name": "CW04 — Renegade Valkyrie",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW04 — Renegade Valkyrie.png"
+			}
+		},
+		{
+			"name": "CW05 — Paladin of a Dead God",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior Cleric  ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW05 — Paladin of a Dead God.png"
+			}
+		},
+		{
+			"name": "CU05 — Paladin of a Forgotten God",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Warrior Cleric  ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU05 — Paladin of a Forgotten God.png"
+			}
+		},
+		{
+			"name": "CB05 — Paladin of a Living God",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior Cleric ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB05 — Paladin of a Living God.png"
+			}
+		},
+		{
+			"name": "CR05 — Paladin of a Mad God",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior Cleric  ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR05 — Paladin of a Mad God.png"
+			}
+		},
+		{
+			"name": "CG05 — Paladin of an Undead God",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior Cleric  ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG05 — Paladin of an Undead God.png"
+			}
+		},
+		{
+			"name": "CW06 — Warrior's Chant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW06 — Warrior's Chant.png"
+			}
+		},
+		{
+			"name": "CW07 — Peacebringer Blade",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW07 — Peacebringer Blade.png"
+			}
+		},
+		{
+			"name": "CW08 — Memory Healer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW08 — Memory Healer.png"
+			}
+		},
+		{
+			"name": "CW09 — Aurora Channeler",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW09 — Aurora Channeler.png"
+			}
+		},
+		{
+			"name": "CR12 — Artful Shock",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR12 — Artful Shock.png"
+			}
+		},
+		{
+			"name": "CW10 — Doves of War",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW10 — Doves of War.png"
+			}
+		},
+		{
+			"name": "CU01 — Charismatic Wizard",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU01 — Charismatic Wizard_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU01 — Charismatic Wizard_back.png"
+				}
+			}
+		},
+		{
+			"name": "CB01 — Charismatic Noble",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB01 — Charismatic Noble_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB01 — Charismatic Noble_back.png"
+				}
+			}
+		},
+		{
+			"name": "CR01 — Charismatic Bard",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Bard ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR01 — Charismatic Bard_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR01 — Charismatic Bard_back.png"
+				}
+			}
+		},
+		{
+			"name": "CG01 — Charismatic Druid",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG01 — Charismatic Druid_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG01 — Charismatic Druid_back.png"
+				}
+			}
+		},
+		{
+			"name": "CW11 — Rebellious Rescuer",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW11 — Rebellious Rescuer.png"
+			}
+		},
+		{
+			"name": "CW12 — Muse of Loyalty",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW12 — Muse of Loyalty.png"
+			}
+		},
+		{
+			"name": "CW14 — Oathbindings",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW14 — Oathbindings.png"
+			}
+		},
+		{
+			"name": "CW13 — Living Saber",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW13 — Living Saber.png"
+			}
+		},
+		{
+			"name": "CW15 — Memory Crush",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW15 — Memory Crush.png"
+			}
+		},
+		{
+			"name": "CW16 — Defensive Stance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW16 — Defensive Stance.png"
+			}
+		},
+		{
+			"name": "CW17 — Peasant's Pitchfork",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW17 — Peasant's Pitchfork.png"
+			}
+		},
+		{
+			"name": "CW18 — Historic Moment",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW18 — Historic Moment.png"
+			}
+		},
+		{
+			"name": "CW19 — Mundane Memories",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CW19 — Mundane Memories.png"
+			}
+		},
+		{
+			"name": "CU02 — Distressed Crab",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Crab ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU02 — Distressed Crab.png"
+			}
+		},
+		{
+			"name": "CB02 — Doomed Priest",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB02 — Doomed Priest.png"
+			}
+		},
+		{
+			"name": "CU04 — Deathmonger Dove",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU04 — Deathmonger Dove.png"
+			}
+		},
+		{
+			"name": "Deathharmonicon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/Deathharmonicon.png"
+			}
+		},
+		{
+			"name": "CU06 — Wistful Drake",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Drake ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU06 — Wistful Drake.png"
+			}
+		},
+		{
+			"name": "CU07 — Loreshell Turtle",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Turtle ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU07 — Loreshell Turtle.png"
+			}
+		},
+		{
+			"name": "CU08 — Miserable Wingmaker",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU08 — Miserable Wingmaker.png"
+			}
+		},
+		{
+			"name": "CU09 — Muse of Knowledge",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU09 — Muse of Knowledge.png"
+			}
+		},
+		{
+			"name": "CU10 — Repleneshing Repetition",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU10 — Repleneshing Repetition.png"
+			}
+		},
+		{
+			"name": "CU11 — Visionary Veto",
+			"rarity": "common",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU11 — Visionary Veto.png"
+			}
+		},
+		{
+			"name": "CU12 — Tale of Negation",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU12 — Tale of Negation.png"
+			}
+		},
+		{
+			"name": "CU13 — Desolate Denial",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU13 — Desolate Denial.png"
+			}
+		},
+		{
+			"name": "CU14 — Desperate Studying",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU14 — Desperate Studying.png"
+			}
+		},
+		{
+			"name": "CU15 — Forsaken Looting",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU15 — Forsaken Looting.png"
+			}
+		},
+		{
+			"name": "CB15 — Bloody Bargain",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB15 — Bloody Bargain.png"
+			}
+		},
+		{
+			"name": "CU16 — Subtle Pull",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU16 — Subtle Pull.png"
+			}
+		},
+		{
+			"name": "CU17 — Forgetful Fade",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU17 — Forgetful Fade.png"
+			}
+		},
+		{
+			"name": "CU18 — Insightful Disruption",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU18 — Insightful Disruption.png"
+			}
+		},
+		{
+			"name": "CU19 — Strength of Knowledge",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CU19 — Strength of Knowledge.png"
+			}
+		},
+		{
+			"name": "CB04 — Forsaken Angel",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Angel ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB04 — Forsaken Angel.png"
+			}
+		},
+		{
+			"name": "CB06 — Fateclaw Feline",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Cat ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB06 — Fateclaw Feline.png"
+			}
+		},
+		{
+			"name": "CB07 — Savage Feline",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cat  ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB07 — Savage Feline.png"
+			}
+		},
+		{
+			"name": "CB08 — Assassin's Chant",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB08 — Assassin's Chant.png"
+			}
+		},
+		{
+			"name": "CB09 — Desperate Dissenter",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB09 — Desperate Dissenter.png"
+			}
+		},
+		{
+			"name": "CB10 — Muse of Persistence",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB10 — Muse of Persistence.png"
+			}
+		},
+		{
+			"name": "CB12 — Vengeant Remebrance",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB12 — Vengeant Remebrance.png"
+			}
+		},
+		{
+			"name": "CB14 — Deathblood Wound",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB14 — Deathblood Wound.png"
+			}
+		},
+		{
+			"name": "UB01 — Forsaken Bones#",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UB01 — Forsaken Bones#.png"
+			}
+		},
+		{
+			"name": "CB11 — Desperate Murder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB11 — Desperate Murder.png"
+			}
+		},
+		{
+			"name": "CB13 — Inconsequential Death",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB13 — Inconsequential Death.png"
+			}
+		},
+		{
+			"name": "The Aeon Brain",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/The Aeon Brain.png"
+			}
+		},
+		{
+			"name": "CB16 — Fateful Resurrection",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB16 — Fateful Resurrection.png"
+			}
+		},
+		{
+			"name": "CB18 — Deadly Swordsmanship",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB18 — Deadly Swordsmanship.png"
+			}
+		},
+		{
+			"name": "CB17 — Mind Rot",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB17 — Mind Rot.png"
+			}
+		},
+		{
+			"name": "CB19 — Strength of Persistence",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CB19 — Strength of Persistence.png"
+			}
+		},
+		{
+			"name": "CR06 — Raging Gambit",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR06 — Raging Gambit.png"
+			}
+		},
+		{
+			"name": "CR02 — Depressed Maskmaker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR02 — Depressed Maskmaker.png"
+			}
+		},
+		{
+			"name": "CR04 — Alleyway Savage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR04 — Alleyway Savage.png"
+			}
+		},
+		{
+			"name": "CR07 — Deathblood Axe",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR07 — Deathblood Axe.png"
+			}
+		},
+		{
+			"name": "CR08 — Forsake the Wilds",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR08 — Forsake the Wilds.png"
+			}
+		},
+		{
+			"name": "CR09 — Swift Hunting",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR09 — Swift Hunting.png"
+			}
+		},
+		{
+			"name": "CR10 — Muse of Courage",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR10 — Muse of Courage.png"
+			}
+		},
+		{
+			"name": "CR11 — Lightning Gauntlet",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR11 — Lightning Gauntlet.png"
+			}
+		},
+		{
+			"name": "CR13 — Hopeless Treason",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR13 — Hopeless Treason.png"
+			}
+		},
+		{
+			"name": "CR14 — Flaming Charge",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR14 — Flaming Charge.png"
+			}
+		},
+		{
+			"name": "CR15 — Desperate Gambit",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR15 — Desperate Gambit.png"
+			}
+		},
+		{
+			"name": "CR16 — Axe of Shared Courage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR16 — Axe of Shared Courage.png"
+			}
+		},
+		{
+			"name": "CR17 — Burst of Mastery",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR17 — Burst of Mastery.png"
+			}
+		},
+		{
+			"name": "#The Master's Blade",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/#The Master's Blade.png"
+			}
+		},
+		{
+			"name": "CR18 — Vengeant Rage",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR18 — Vengeant Rage.png"
+			}
+		},
+		{
+			"name": "The Aeon Brawn",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/The Aeon Brawn.png"
+			}
+		},
+		{
+			"name": "The Aeon Bones",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/The Aeon Bones_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/The Aeon Bones_back.png"
+				}
+			}
+		},
+		{
+			"name": "CR19 — Burn Down the Walls",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CR19 — Burn Down the Walls.png"
+			}
+		},
+		{
+			"name": "CG02 — Deathbloom Assassin",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rogue Druid ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG02 — Deathbloom Assassin.png"
+			}
+		},
+		{
+			"name": "CG04 — Archer's Gambit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG04 — Archer's Gambit.png"
+			}
+		},
+		{
+			"name": "CG06 — Enchanted Boughs",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Treefolk ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG06 — Enchanted Boughs.png"
+			}
+		},
+		{
+			"name": "CG07 — Savage Canine",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG07 — Savage Canine.png"
+			}
+		},
+		{
+			"name": "CG08 — Lore-Rune Golem",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Artifact Creature — Golem ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG08 — Lore-Rune Golem.png"
+			}
+		},
+		{
+			"name": "CG09 — Miserable Menagerie",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG09 — Miserable Menagerie.png"
+			}
+		},
+		{
+			"name": "CG10 — Herald of Forsakenment",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG10 — Herald of Forsakenment.png"
+			}
+		},
+		{
+			"name": "CG11 — Muse of Strength",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG11 — Muse of Strength.png"
+			}
+		},
+		{
+			"name": "CG13 — Rhythmic Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG13 — Rhythmic Growth.png"
+			}
+		},
+		{
+			"name": "CG12 — Prey Upon",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG12 — Prey Upon.png"
+			}
+		},
+		{
+			"name": "CG14 — Baneful Bite",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG14 — Baneful Bite.png"
+			}
+		},
+		{
+			"name": "CG15 — Growth Song",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG15 — Growth Song.png"
+			}
+		},
+		{
+			"name": "CG18 — Fertile Ground",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG18 — Fertile Ground.png"
+			}
+		},
+		{
+			"name": "CG16 — Strength of Nature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG16 — Strength of Nature.png"
+			}
+		},
+		{
+			"name": "CG17 — Birdhunt",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG17 — Birdhunt.png"
+			}
+		},
+		{
+			"name": "CG19 — Disillusion",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CG19 — Disillusion.png"
+			}
+		},
+		{
+			"name": "CC01 — Ambiguous Visionary",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Enchantment Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CC01 — Ambiguous Visionary.png"
+			}
+		},
+		{
+			"name": "CC02 — Ambiguous Reckoner",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Enchantment Creature",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CC02 — Ambiguous Reckoner.png"
+			}
+		},
+		{
+			"name": "CC03 — Ambiguous Madman",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Enchantment Creature",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CC03 — Ambiguous Madman.png"
+			}
+		},
+		{
+			"name": "CC04 — Ambiguous Death",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CC04 — Ambiguous Death.png"
+			}
+		},
+		{
+			"name": "CC05 — Ambiguous Power",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CC05 — Ambiguous Power.png"
+			}
+		},
+		{
+			"name": "CC06 — Ambiguous Exploration",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/CC06 — Ambiguous Exploration.png"
+			}
+		},
+		{
+			"name": "UW01 — Lorefeather Hawk",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UW01 — Lorefeather Hawk.png"
+			}
+		},
+		{
+			"name": "Spellcraft Superiority",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/Spellcraft Superiority.png"
+			}
+		},
+		{
+			"name": "UW02 — Cleric of a Dead God",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/UW02 — Cleric of a Dead God.png"
+			}
+		},
+		{
+			"name": "Memorial Mastery",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/EtherShade/END/main/END3D-files/Memorial Mastery.png"
+			}
+		},
+		]
+	[CommonSlot(14)]
+	30 CW01 — Charismatic Peasant
+		30 CW02 — Storyteller's Rally
+		30 CW03 — Memory of Loyalty
+		30 CU03 — Memory of Knowledge
+		30 CB03 — Memory of Persistence
+		30 CR03 — Memory of Loyalty
+		30 CG03 — Memory of Strength
+		30 CW04 — Renegade Valkyrie
+		30 CW05 — Paladin of a Dead God
+		30 CU05 — Paladin of a Forgotten God
+		30 CB05 — Paladin of a Living God
+		30 CR05 — Paladin of a Mad God
+		30 CG05 — Paladin of an Undead God
+		30 CW06 — Warrior's Chant
+		30 CW07 — Peacebringer Blade
+		30 CW08 — Memory Healer
+		30 CW09 — Aurora Channeler
+		30 CR12 — Artful Shock
+		30 CW10 — Doves of War
+		30 CU01 — Charismatic Wizard
+		30 CB01 — Charismatic Noble
+		30 CR01 — Charismatic Bard
+		30 CG01 — Charismatic Druid
+		30 CW11 — Rebellious Rescuer
+		30 CW12 — Muse of Loyalty
+		30 CW14 — Oathbindings
+		30 CW13 — Living Saber
+		30 CW15 — Memory Crush
+		30 CW16 — Defensive Stance
+		30 CW17 — Peasant's Pitchfork
+		30 CW18 — Historic Moment
+		30 CW19 — Mundane Memories
+		30 CU02 — Distressed Crab
+		30 CB02 — Doomed Priest
+		30 CU04 — Deathmonger Dove
+		30 CU06 — Wistful Drake
+		30 CU07 — Loreshell Turtle
+		30 CU08 — Miserable Wingmaker
+		30 CU09 — Muse of Knowledge
+		30 CU10 — Repleneshing Repetition
+		30 CU11 — Visionary Veto
+		30 CU12 — Tale of Negation
+		30 CU13 — Desolate Denial
+		30 CU14 — Desperate Studying
+		30 CU15 — Forsaken Looting
+		30 CB15 — Bloody Bargain
+		30 CU16 — Subtle Pull
+		30 CU17 — Forgetful Fade
+		30 CU18 — Insightful Disruption
+		30 CU19 — Strength of Knowledge
+		30 CB04 — Forsaken Angel
+		30 CB06 — Fateclaw Feline
+		30 CB07 — Savage Feline
+		30 CB08 — Assassin's Chant
+		30 CB09 — Desperate Dissenter
+		30 CB10 — Muse of Persistence
+		30 CB12 — Vengeant Remebrance
+		30 CB14 — Deathblood Wound
+		30 CB11 — Desperate Murder
+		30 CB13 — Inconsequential Death
+		30 CB16 — Fateful Resurrection
+		30 CB18 — Deadly Swordsmanship
+		30 CB17 — Mind Rot
+		30 CB19 — Strength of Persistence
+		30 CR06 — Raging Gambit
+		30 CR02 — Depressed Maskmaker
+		30 CR04 — Alleyway Savage
+		30 CR07 — Deathblood Axe
+		30 CR08 — Forsake the Wilds
+		30 CR09 — Swift Hunting
+		30 CR10 — Muse of Courage
+		30 CR11 — Lightning Gauntlet
+		30 CR13 — Hopeless Treason
+		30 CR14 — Flaming Charge
+		30 CR15 — Desperate Gambit
+		30 CR16 — Axe of Shared Courage
+		30 CR17 — Burst of Mastery
+		30 CR18 — Vengeant Rage
+		30 CR19 — Burn Down the Walls
+		30 CG02 — Deathbloom Assassin
+		30 CG04 — Archer's Gambit
+		30 CG06 — Enchanted Boughs
+		30 CG07 — Savage Canine
+		30 CG08 — Lore-Rune Golem
+		30 CG09 — Miserable Menagerie
+		30 CG10 — Herald of Forsakenment
+		30 CG11 — Muse of Strength
+		30 CG13 — Rhythmic Growth
+		30 CG12 — Prey Upon
+		30 CG14 — Baneful Bite
+		30 CG15 — Growth Song
+		30 CG18 — Fertile Ground
+		30 CG16 — Strength of Nature
+		30 CG17 — Birdhunt
+		30 CG19 — Disillusion
+		30 CC01 — Ambiguous Visionary
+		30 CC02 — Ambiguous Reckoner
+		30 CC03 — Ambiguous Madman
+		30 CC04 — Ambiguous Death
+		30 CC05 — Ambiguous Power
+		30 CC06 — Ambiguous Exploration
+		
