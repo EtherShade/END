@@ -1079,7 +1079,7 @@ Desperation — 2U, Put a -1/-1 counter on Miserable Wingmaker: Target creature 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Shuffle your hand and graveyard into your library, then you may put a card with flashback you own in exile into your graveyard.
+      <text>Shuffle your graveyard into your library, then you may put a card with flashback you own in exile into your graveyard.
 Flashback 4U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
@@ -1182,7 +1182,8 @@ II — When the gods abandoned them, most humans chose to desperately hope they 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Subtle Pull costs {1} less to cast if it targets a creature.</text>
+      <text>Subtle Pull costs {1} less to cast if it targets a creature.
+Return target nonland permanent to its owner’s hand.</text>
     </card>
     <card>
       <name>CU17 — Claustrophobia</name>
@@ -1972,7 +1973,10 @@ Enchanted creature gets +2/+2.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy target enchantment.</text>
+      <text>Choose one —
+• Destroy target enchantment.
+• Draw a card.
+• Remove up to three counters from target permanent you control.</text>
     </card>
     <card>
       <name>CC01 — Ambiguous Visionary</name>
